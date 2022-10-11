@@ -1,0 +1,46 @@
+{  
+  "id": "urn:ngsi-ld:Wastecollection:1021:AAWD",  
+  "type": "WasteCollection",  
+  "location": {  
+    "type": "geo:json",  
+    "value": {  
+      "coordinates": [  
+        -8.768460000000001,  
+        42.60214472222222  
+      ],  
+      "type": "Point"  
+    }  
+  },  
+  "binCollectDatetime": {  
+    "type": "DateTime",  
+    "value": "2021-06-11T06:51:02+05:30"  
+  },  
+  "license_plate": {  
+    "type": "Text",  
+    "value": "KA23F2345"  
+  },  
+  "RFID_chip": {  
+    "type": "Text",  
+    "value": "65478158"  
+  },  
+  "wasteDumpsterId": {  
+    "type": "string",  
+    "value": "XG58441-S" 
+  },  
+  "binRecommendedLoad": {  
+    "type": "number",  
+    "value": 30  
+  },  
+  "binId": {  
+    "type": "Text",  
+    "value": "12"  
+  },  
+  "fillingWeight": {  
+    "type": "number",  
+    "value": 32  
+  },  
+  "loaderGarbageSide": {  
+    "type": "Text",  
+    "value": "backRight"  
+  }  
+}  

@@ -1,0 +1,18 @@
+{  
+  "id": "urn:ngsi-ld:Wastecollection:1021:AAWD",  
+  "type": "WasteCollection",  
+  "location": {  
+    "coordinates": [  
+      -8.768460000000001,  
+      42.60214472222222  
+    ],  
+    "type": "Point"  
+  },  
+  "binCollectDatetime": "2021-06-11T06:51:02+05:30",  
+  "license_plate": "KA23F2345", 
+  "wasteDumpsterId":"XG58441-S" ,
+  "RFID_chip": "65478158",  
+  "fillingWeight": 32,  
+  "binId": 12, 
+  "loaderGarbageSide": "backRight" 
+} 
